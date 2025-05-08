@@ -18,6 +18,11 @@ import javax.swing.undo.UndoManager;
 
 public class NotepadFrame extends JFrame {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 6698607154906654019L;
+	
 	private JMenuBar menubar;
 	JTextArea txt;
 	JScrollPane scrollpane ;
